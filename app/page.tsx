@@ -6,9 +6,14 @@ import styles from './page.module.css'
 function page() {
   return (
     <>
-      <div className={styles.box}>
+      <div className={styles.box}> 
+        <div>    
           <Subnav/>
+        </div> 
+
+        <div className={styles.nav}>
           <Burgernav/>
+        </div>
       </div>
     </>
   )
