@@ -4,7 +4,6 @@ import Subnav from './components/Subnav/Subnav'
 function page() {
   return (
     <>
-      <div>page</div>
       <Subnav/>
     </>
   )
