@@ -21,6 +21,7 @@ body {
     rgb(var(--background-start-rgb));
     background-color: white;
     margin: 0;
+    color: black;
 }
 
 
@@ -41,7 +42,7 @@ a {
   --bar-width: 60px;
   --bar-height: 8px;
   --hamburger-gap: 6px;
-  --foreground: rgb(203, 179, 20);
+  --foreground: gold;
   --background: white;
   --hamburger-margin: 8px;
   --animation-timing: 200ms ease-in-out;

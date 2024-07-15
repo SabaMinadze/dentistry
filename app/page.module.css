@@ -5,7 +5,7 @@
         --bar-width: 0px;
         --bar-height: 0px;
         --hamburger-gap: 0px;
-        --foreground: rgb(203, 179, 20);
+        --foreground: gold;
         --background: white;
         --hamburger-margin: 0px;
         --animation-timing: 200ms ease-in-out;
@@ -23,7 +23,7 @@
         --bar-width: 60px;
         --bar-height: 8px;
         --hamburger-gap: 6px;
-        --foreground: rgb(203, 179, 20);
+        --foreground: gold;
         --background: white;
         --hamburger-margin: 8px;
         --animation-timing: 200ms ease-in-out;
