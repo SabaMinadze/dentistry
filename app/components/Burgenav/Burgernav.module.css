@@ -95,6 +95,7 @@
   color: black;
   background-color: gold;
   transform: translateY(105px);
+  transition: 0.7s;
 
   
 

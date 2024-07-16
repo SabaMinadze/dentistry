@@ -9,19 +9,19 @@ const Burgernav = () => (
           </label>
           <aside className={styles.sidebar}>
             <nav>
-            <Link href="/aboutus" className={styles.txt}><div>ჩვენს შესახებ</div></Link>
+            <Link href="/" className={styles.txt}><div>ჩვენს შესახებ</div></Link>
             <br/>
-            <Link href="/stomatologi" className={styles.txt}><div>ჩვენი სტომატოლოგები</div></Link>
+            <Link href="/" className={styles.txt}><div>ჩვენი სტომატოლოგები</div></Link>
             <br/>
-            <Link href="/achievements" className={styles.txt}><div>ჩვენი მიღწევები</div></Link>
+            <Link href="/" className={styles.txt}><div>ჩვენი მიღწევები</div></Link>
             <br/>
-            <Link href="/residency" className={styles.txt}><div>რეზიდენტურა</div></Link>
+            <Link href="/" className={styles.txt}><div>რეზიდენტურა</div></Link>
             <br/>
-            <Link href="/questions" className={styles.txt}><div>კითხვები</div></Link>
+            <Link href="/" className={styles.txt}><div>კითხვები</div></Link>
             <br/>
-            <Link href="/servicesandprices" className={styles.txt}><div>სერვისები და ფასები</div></Link>
+            <Link href="/" className={styles.txt}><div>სერვისები და ფასები</div></Link>
             <br/><br/><br/><br/>
-            <Link href="/contactus" className={styles.txt2}><div>კონტაქტი</div></Link>
+            <Link href="/" className={styles.txt2}><div>კონტაქტი</div></Link>
             </nav>
           </aside>
   </>
