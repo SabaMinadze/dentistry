@@ -90,7 +90,7 @@
   padding-top: calc(var(--hamburger-height) + var(--hamburger-margin) + 1rem);
   background-color: var(--foreground);
   color: var(--background);
-  max-width: 415px;
+  max-width: 426px;
   height: 90vh;
   color: black;
   background-color: gold;
