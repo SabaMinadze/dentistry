@@ -13,30 +13,31 @@ function Content1st() {
           alt="eror" 
           className={styles.logo}/>
         </Link>
-      <div className={styles.img}><Image
-        src="/dentist.jpg"
-        width={1050}
-        height={550}
-        alt="Picture of the author"
-      /></div>
+      <div className={styles.content}>
+        <div className={styles.img}><Image
+          src="/dentist.jpg"
+          width={410}
+          height={550}
+          alt="Picture of the author"
+        /></div>
 
-      <div>
-        <h1 className={styles.txt}>ეს არის ჩვენი კლინიკის სამუშაო ადგილი</h1>
-        <br/>
-        <div className={styles.img2}><Image
-        src="/dentist2.jpg"
-        width={445}
-        height={467}
-        alt="Picture of the author"
-      /></div>
+        <div>
+          <h1 className={styles.txt}>ეს არის ჩვენი კლინიკის სამუშაო ადგილი</h1>
+          <br/><br/><br/><br/><br/><br/>
+          <div className={styles.img2}><Image
+          src="/dentist2.jpg"
+          width={410}
+          height={467}
+          alt="Picture of the author"
+        /></div>
 
-      <div className={styles.img3}><Image
-        src="/wameba.png"
-        width={1505}
-        height={1500}
-        alt="Picture of the author"
-      /></div>
-
+        <div className={styles.img3}><Image
+          src="/wameba.png"
+          width={410}
+          height={450}
+          alt="Picture of the author"
+        /></div>
+        </div>
       </div>
     </>
   )

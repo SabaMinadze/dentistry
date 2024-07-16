@@ -21,7 +21,7 @@
 
 /* Change foreground and background colors when the menu is checked */
 .hamburgerMenu:has(input:checked) {
-  --foreground: white;
+  --foreground: rgb(165, 144, 22);
   --background: #333;
   
 }

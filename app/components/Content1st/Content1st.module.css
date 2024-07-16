@@ -21,7 +21,7 @@
 }
 
 
-@media (min-width: 220px) and (max-width: 950px) {
+@media (min-width: 220px) and (max-width: 950px){
 
 
     .logo{
@@ -34,7 +34,9 @@
         border-radius: 20px;
     }
 
-
+    .content{
+        margin-top: -800px;
+    }
 
 }
 
