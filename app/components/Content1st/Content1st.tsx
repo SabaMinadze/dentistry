@@ -17,14 +17,14 @@ function Content1st() {
       <br/>
       <div className={styles.img2}><Image
       src="/dentist2.jpg"
-      width={455}
+      width={445}
       height={467}
       alt="Picture of the author"
     /></div>
 
     <div className={styles.img3}><Image
       src="/wameba.png"
-      width={1515}
+      width={1505}
       height={1500}
       alt="Picture of the author"
     /></div>
