@@ -7,7 +7,7 @@ function Content1st() {
   return (
     <>
         <Link href="/">
-          <Image src="/dentistrylogo.jpg"
+          <Image src="/algani.png"
           height={170} 
           width={170} 
           alt="eror" 
