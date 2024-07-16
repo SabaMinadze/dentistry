@@ -15,7 +15,7 @@ function Content1st() {
         </Link>
       <div className={styles.content}>
         <div className={styles.img}><Image
-          src="/dentist.jpg"
+          src="/kaci.jpg"
           width={410}
           height={550}
           alt="Picture of the author"
@@ -25,7 +25,7 @@ function Content1st() {
           <h1 className={styles.txt}>ეს არის ჩვენი კლინიკის სამუშაო ადგილი</h1>
           <br/><br/><br/><br/><br/><br/>
           <div className={styles.img2}><Image
-          src="/dentist2.jpg"
+          src="/operacia.jpg"
           width={410}
           height={467}
           alt="Picture of the author"
