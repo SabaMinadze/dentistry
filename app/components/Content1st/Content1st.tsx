@@ -14,6 +14,20 @@ function Content1st() {
           className={styles.logo}/>
         </Link>
       <div className={styles.content}>
+        <h1>მოგესალმებით ჩვენ ვართ ნომერ პირველი და მთავარი წამყვანი სტომატოლგიური კლინიკა 
+          მთელ ამიერ და იმიერ კავკასიას შორის</h1>
+          <h2>ჩვენთნ თქვენ შეგიძლიან ისწავლოთ ფეხბურთის თამაში ბებიას მოტეხილი კბილით</h2>
+          <h2>ჩვენთნ თქვენ ყველა სპორტულ და სექსუალურ სურვილს აიხდენთ</h2>
+
+          <h2>ფეხბურთის მწვრთნელი: <h1 className={styles.saba}>საბა მინაძე</h1></h2>
+
+          <div className={styles.img3}><Image
+          src="/saba.jpg"
+          width={410}
+          height={450}
+          alt="Picture of the author"
+        /></div>
+
       <br/>
         <div className={styles.img}><Image
           src="/kaci.jpg"
@@ -38,8 +52,23 @@ function Content1st() {
           height={450}
           alt="Picture of the author"
         /></div>
+        <br/>
          <div className={styles.img3}><Image
           src="/kacurikaci.jpg"
+          width={410}
+          height={450}
+          alt="Picture of the author"
+        /></div>
+        <br/>
+        <div className={styles.img3}><Image
+          src="/gimili.jpg"
+          width={410}
+          height={450}
+          alt="Picture of the author"
+        /></div>
+        <br/>
+         <div className={styles.img3}><Image
+          src="/salami.jpg"
           width={410}
           height={450}
           alt="Picture of the author"
