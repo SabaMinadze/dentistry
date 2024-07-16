@@ -14,7 +14,7 @@
   left: var(--hamburger-margin);
   z-index: 2;
   cursor: pointer;
-  margin-left: 340px;
+  margin-left: 320px;
   
 
 }
@@ -94,7 +94,8 @@
   height: 90vh;
   color: black;
   background-color: gold;
-  transform: translateY(180px);
+  transform: translateY(125px);
+
   
 
 }
