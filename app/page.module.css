@@ -12,6 +12,9 @@
         --hamburger-height: calc(var(--bar-height) * 3 + var(--hamburger-gap) * 2);
     }
 
+    .content1st{
+        margin-top: -675px;
+    }
 
 }
 
@@ -28,7 +31,13 @@
         --hamburger-margin: 8px;
         --animation-timing: 200ms ease-in-out;
         --hamburger-height: calc(var(--bar-height) * 3 + var(--hamburger-gap) * 2);
+
+        
+
+        
     }
+
+    
 
     
 }

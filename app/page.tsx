@@ -12,10 +12,12 @@ function page() {
         <div>    
           <Subnav/>
         </div> 
-        <Content1st/>
         <div className={styles.nav}>
           <Burgernav/>
         </div>
+          <div className={styles.content1st}>
+            <Content1st/>
+          </div>
       </div>
     </>
   )

@@ -1,6 +1,6 @@
 @media (min-width: 1200px) and (max-width: 2222px) {
     .img{
-        margin-left: 10px;
+        margin-left: 5px;
     }
 
     .txt{
@@ -16,12 +16,27 @@
     }
 
     .img3{
-        margin-left: 10px;
+        margin-left: 5px;
     }
 }
 
 
-@media (min-width: 220px) and (max-width: 950px) {}
+@media (min-width: 220px) and (max-width: 950px) {
+
+
+    .logo{
+        border-radius: 19px;
+        cursor: pointer;
+        transform: translateY(-850px);
+        margin-left: 10px;   
+        width: 150px;
+        height: 150px;
+        border-radius: 20px;
+    }
+
+
+
+}
 
 
 

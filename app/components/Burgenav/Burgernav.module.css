@@ -14,6 +14,7 @@
   left: var(--hamburger-margin);
   z-index: 2;
   cursor: pointer;
+  margin-left: 340px;
   
 
 }
@@ -22,6 +23,7 @@
 .hamburgerMenu:has(input:checked) {
   --foreground: white;
   --background: #333;
+  
 }
 
 /* Add focus styles for accessibility */
@@ -30,6 +32,7 @@
 .hamburgerMenu input:focus-visible {
   border: 1px solid var(--background);
   box-shadow: 0 0 0 1px var(--foreground);
+
 }
 
 /* Styles for the hamburger bars */
@@ -45,6 +48,8 @@
   transition: opacity var(--animation-timing), width var(--animation-timing),
     rotate var(--animation-timing), translate var(--animation-timing),
     background-color var(--animation-timing);
+    
+    
 }
 
 /* Styles for the hidden checkbox */
@@ -54,6 +59,7 @@
   margin: 0;
   outline: none;
   pointer-events: none;
+  
 }
 
 /* Transform the top bar into an X shape when checked */
@@ -84,15 +90,17 @@
   padding-top: calc(var(--hamburger-height) + var(--hamburger-margin) + 1rem);
   background-color: var(--foreground);
   color: var(--background);
-  max-width: 250px;
+  max-width: 415px;
   height: 90vh;
   color: black;
   background-color: gold;
+  transform: translateY(180px);
+  
 
 }
 
 .txt{
-  font-size: 19px;
+  font-size: 30px;
   font-weight: 700;
 }
 
@@ -104,6 +112,8 @@
 /* Show the sidebar when the hamburger menu is checked */
 .hamburgerMenu:has(input:checked) + .sidebar {
   translate: 0;
+ 
+  
 }
   
 
