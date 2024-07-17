@@ -19,10 +19,10 @@ function page() {
 
           <div className={styles.content1st}>
             <Content1st/>
-              <div className={styles.box7}>
-                <Card/>
-              </div>
           </div>
+            <div className={styles.box7}>
+              <Card/>
+            </div>
       </div>
     </>
   )
