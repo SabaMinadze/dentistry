@@ -5,6 +5,7 @@ import styles from './page.module.css'
 import Content1st from './components/Content1st/Content1st'
 import Image from 'next/image'
 import Card from './components/Card/Card'
+import Card2 from './components/Card2/Card2'
 
 function page() {
   return (
@@ -23,6 +24,16 @@ function page() {
             <div className={styles.box7}>
               <Card/>
             </div>
+            <br/>
+            <Card2 name="მარიამ რეხვიშვილი"
+             prof="ექიმი ორთოდონტი"
+              prof2="თერაპრვტი"
+              img={<Image src="/eqimi.jpg" height={150} width={150} alt="eror"/>}
+              duty1="ყბა-კბილთა სისტემის გასწორება მოსახსნელი ფირფიტოვანი და მოუხსნელი
+               ბრეკეტ-სისტემით მკურნალობა"
+               duty2="თანამედროვე ენდოდონტიური მკურნალობა"
+               duty3="კარიესის მკურნალობა"
+              />
       </div>
     </>
   )
