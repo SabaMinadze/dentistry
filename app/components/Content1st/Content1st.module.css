@@ -35,13 +35,16 @@
     }
 
     .content{
-        margin-top: -700px;
+        margin-top: -850px;
     }
 
     .saba{
         color: rgb(21, 255, 0);
         font-size: 70px;
+        margin-top: 10px;
     }
+
+
 
 }
 
