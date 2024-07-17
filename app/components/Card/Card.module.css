@@ -1,0 +1,22 @@
+.cardBox{
+    background-color: rgb(230, 231, 236);
+    width: 410px;
+}
+
+
+.txt2{
+    font-size: 20px;
+}
+
+.img{
+    border-radius: 10px;
+    margin-left: 260px;
+    margin-top: -93px;    
+    
+}
+
+.list{
+    font-size: 20px;
+    margin: 10px;
+    list-style: none;
+}

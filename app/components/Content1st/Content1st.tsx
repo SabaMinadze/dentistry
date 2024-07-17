@@ -26,7 +26,7 @@ function Content1st() {
           <div className={styles.img3}><Image
           src="/saba.jpg"
           width={410}
-          height={300}
+          height={330}
           alt="Picture of the author"
         /></div>
         </div>
