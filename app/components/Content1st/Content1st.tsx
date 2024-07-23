@@ -28,8 +28,6 @@ function Content1st() {
         </div>
 
       <br/>
-      <Card/>
-      <br/>
 
         <div className={styles.img}><Image
           src="/kaci.jpg"
