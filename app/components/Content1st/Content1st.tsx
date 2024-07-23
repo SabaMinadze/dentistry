@@ -69,7 +69,6 @@ function Content1st() {
           alt="Picture of the author"
         /></div>
         <br/>
-        <Card/>
         <br/>
          <div className={styles.img3}><Image
           src="/salami.jpg"

@@ -24,7 +24,7 @@ function page() {
           </div>
           <Eqimebi/>
             <div className={styles.box7}>
-              <Card/>
+              <br/><br/><br/>
             </div>
             <br/>
       </div>

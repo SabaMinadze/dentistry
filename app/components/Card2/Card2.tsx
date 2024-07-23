@@ -15,6 +15,7 @@ function Card2(props:any) {
         <li className={styles.list2}>{props.duty2}</li>
         <li className={styles.list3}>{props.duty3}</li>
         <li className={styles.list4}>{props.duty4}</li>
+        <li className={styles.list4}>{props.duty5}</li>
       </ul>
         <center><div>
           <h2 className={styles.txt3}>დენტისტრი</h2>
