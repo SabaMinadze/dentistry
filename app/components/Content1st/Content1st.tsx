@@ -23,59 +23,6 @@ function Content1st() {
           <h2>ფეხბურთის მწვრთნელი:</h2>
           
           <h1 className={styles.saba}>ჩვენი ექიმები</h1>
-
-      
-        </div>
-
-      <br/>
-
-        <div className={styles.img}><Image
-          src="/kaci.jpg"
-          width={410}
-          height={550}
-          alt="Picture of the author"
-        /></div>
-
-        <div>
-          <br/>
-          <div className={styles.img2}><Image
-          src="/operacia.jpg"
-          width={410}
-          height={467}
-          alt="Picture of the author"
-        /></div>
-        <br/>
-
-        <div className={styles.img3}><Image
-          src="/zura.jpg"
-          width={410}
-          height={450}
-          alt="Picture of the author"
-        /></div>
-
-        <br/>
-         <div className={styles.img3}><Image
-          src="/kacurikaci.jpg"
-          width={410}
-          height={450}
-          alt="Picture of the author"
-        /></div>
-        <br/>
-
-        <div className={styles.img3}><Image
-          src="/gimili.jpg"
-          width={410}
-          height={450}
-          alt="Picture of the author"
-        /></div>
-        <br/>
-        <br/>
-         <div className={styles.img3}><Image
-          src="/salami.jpg"
-          width={410}
-          height={450}
-          alt="Picture of the author"
-        /></div>
         </div>
       </div>
     </>

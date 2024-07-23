@@ -23,10 +23,6 @@ function page() {
             <Content1st/>
           </div>
           <Eqimebi/>
-            <div className={styles.box7}>
-              <br/><br/><br/>
-            </div>
-            <br/>
       </div>
     </>
   )
