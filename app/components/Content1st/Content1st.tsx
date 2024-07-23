@@ -22,14 +22,9 @@ function Content1st() {
             <h2>ჩვენთნ თქვენ ყველა სპორტულ სურვილის აიხდენთ</h2>
           <h2>ფეხბურთის მწვრთნელი:</h2>
           
-          <h1 className={styles.saba}>საბა მინაძე</h1>
+          <h1 className={styles.saba}>ჩვენი ექიმები</h1>
 
-          <div className={styles.img3}><Image
-          src="/saba.jpg"
-          width={410}
-          height={330}
-          alt="Picture of the author"
-        /></div>
+      
         </div>
 
       <br/>
