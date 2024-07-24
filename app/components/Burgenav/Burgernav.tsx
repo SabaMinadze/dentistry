@@ -19,7 +19,7 @@ const Burgernav = () => (
             <br/>
             <Link href="/" className={styles.txt}><div>კითხვები</div></Link>
             <br/>
-            <Link href="/" className={styles.txt}><div>სერვისები და ფასები</div></Link>
+            <Link href="/servicesandprices" className={styles.txt}><div>სერვისები და ფასები</div></Link>
             <br/><br/><br/><br/>
             <Link href="/" className={styles.txt2}><div>კონტაქტი</div></Link>
             </nav>

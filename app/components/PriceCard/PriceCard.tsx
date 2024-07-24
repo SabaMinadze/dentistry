@@ -1,9 +1,13 @@
 import React from 'react'
 import styles from './PriceCard.module.css'
 
-function pricecard() {
+function pricecard(props:any) {
   return (
-    <div>pricecard</div>
+    <div className={styles.box}>
+      <h1 className={styles.txt}>{props.txt}</h1>
+
+
+    </div>
   )
 }
 
