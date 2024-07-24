@@ -13,7 +13,7 @@ function page() {
     <>
       <div className={styles.box}>
         <div>    
-          <Subnav/>
+          
         </div> 
         <div className={styles.nav}>
           <Burgernav/>
