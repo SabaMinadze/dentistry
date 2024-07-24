@@ -10,7 +10,7 @@ function Footer() {
       <h2 className={styles.txt3}>Instagram: minadzesaba16</h2>
       <br/><br/>
       <h1>Language</h1>
-      <Link href=""><button className={styles.btn}>English</button></Link>
+      <Link href="https://www.facebook.com/centerofdentistry"><button className={styles.btn}>English</button></Link>
 
       <h2 className={styles.txt2}>algandent.ge ყველა უფლება დაცულია. © 2023 - 2024</h2>
 
