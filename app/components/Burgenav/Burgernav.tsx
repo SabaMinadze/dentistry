@@ -9,15 +9,14 @@ const Burgernav = () => (
           </label>
           <aside className={styles.sidebar}>
             <nav>
-            <Link href="/" className={styles.txt}><div>ჩვენს შესახებ</div></Link>
             <br/>
             <Link href="/" className={styles.txt}><div>ჩვენი სტომატოლოგები</div></Link>
             <br/>
-            <Link href="/" className={styles.txt}><div>ჩვენი მიღწევები</div></Link>
+            <Link href="/achievements" className={styles.txt}><div>ჩვენი მიღწევები</div></Link>
             <br/>
-            <Link href="/" className={styles.txt}><div>რეზიდენტურა</div></Link>
+            <Link href="/residency" className={styles.txt}><div>რეზიდენტურა</div></Link>
             <br/>
-            <Link href="/" className={styles.txt}><div>კითხვები</div></Link>
+            <Link href="/questions" className={styles.txt}><div>კითხვები</div></Link>
             <br/>
             <Link href="/servicesandprices" className={styles.txt}><div>სერვისები და ფასები</div></Link>
             <br/><br/><br/><br/>
