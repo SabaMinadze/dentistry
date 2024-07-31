@@ -54,8 +54,12 @@
 
 
     .box{
-        background-color: rgb(255, 255, 255);
+        background-color: grey;
         font-size: 15px;
+    }
+
+    .txt{
+        color: white;
     }
 }
 

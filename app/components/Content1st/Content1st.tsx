@@ -16,7 +16,7 @@ function Content1st() {
         </Link>
       <div className={styles.content}>
         <div className={styles.box}>
-          <h1>მოგესალმებით ჩვენ ვართ ნომერ პირველი და მთავარი წამყვანი სტომატოლგიური კლინიკა 
+          <h1 className={styles.txt}>მოგესალმებით ჩვენ ვართ ნომერ პირველი და მთავარი წამყვანი სტომატოლგიური კლინიკა 
             მთელ საქართველოში</h1>
   
           
