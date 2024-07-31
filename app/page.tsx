@@ -16,11 +16,12 @@ function page() {
           
         </div> 
         <div className={styles.nav}>
+        <h1 className={styles.txt}>დენტისტრი/Dentistry</h1>
           <Burgernav/>
         </div>
-
           <div className={styles.content1st}>
             <Content1st/>
+
           </div>
           <Eqimebi/>
       </div>
