@@ -44,11 +44,49 @@ function page() {
     </div>
     <br/><br/>
     <div className={styles.box}>
+      <Image src="/kbili13.jpg" width={480} height={300} alt="eror" className={styles.img}/>
+      <br/><br/>
       <Image src="/kbili14.jpg" width={480} height={300} alt="eror" className={styles.img}/>
       <br/><br/>
       <Image src="/kbili15.jpg" width={480} height={300} alt="eror" className={styles.img}/>
       <br/><br/>
+    </div>
+    <div className={styles.box}>
       <Image src="/kbili16.jpg" width={480} height={300} alt="eror" className={styles.img}/>
+      <br/><br/>
+      <Image src="/kbili17.jpg" width={480} height={300} alt="eror" className={styles.img}/>
+      <br/><br/>
+      <Image src="/kbili18.jpg" width={480} height={300} alt="eror" className={styles.img}/>
+      <br/><br/>
+    </div>
+    <div className={styles.box}>
+      <Image src="/kbili19.jpg" width={480} height={300} alt="eror" className={styles.img}/>
+      <br/><br/>
+      <Image src="/kbili20.jpg" width={480} height={300} alt="eror" className={styles.img}/>
+      <br/><br/>
+      <Image src="/kbili21.jpg" width={480} height={300} alt="eror" className={styles.img}/>
+      <br/><br/>
+    </div>
+    <div className={styles.box}>
+      <Image src="/kbili22.jpg" width={480} height={300} alt="eror" className={styles.img}/>
+      <br/><br/>
+      <Image src="/kbili23.jpg" width={480} height={300} alt="eror" className={styles.img}/>
+      <br/><br/>
+      <Image src="/kbili24.jpg" width={480} height={300} alt="eror" className={styles.img}/>
+      <br/><br/>
+    </div>
+    <div className={styles.box}>
+      <Image src="/kbili25.jpg" width={480} height={300} alt="eror" className={styles.img}/>
+      <br/><br/>
+      <Image src="/kbili26.jpg" width={480} height={300} alt="eror" className={styles.img}/>
+      <br/><br/>
+      <Image src="/kbili27.jpg" width={480} height={300} alt="eror" className={styles.img}/>
+      <br/><br/>
+    </div>
+    <div className={styles.box}>
+      <Image src="/kbili28.jpg" width={480} height={300} alt="eror" className={styles.img}/>
+      <br/><br/>
+      <Image src="/kbili29.jpg" width={480} height={300} alt="eror" className={styles.img}/>
       <br/><br/>
     </div>
     </>
