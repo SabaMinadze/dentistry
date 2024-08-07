@@ -64,6 +64,10 @@
         font-size: 50px;
         
     }
+
+    .dzaanbigbox{
+        transform: translateY(150px);
+    }
 }
 
 
