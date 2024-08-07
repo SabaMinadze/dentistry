@@ -32,13 +32,11 @@
 
 
     .logo{
-        border-radius: 19px;
+        border-radius: 90px;
         cursor: pointer;
-        transform: translateY(-860px);
-        margin-left: 5px;   
-        width: 80px;
-        height: 80px;
-        border-radius: 20px;
+        transform: translateY(-860px);  
+        width: 150px;
+        height: 150px;
     }
 
     .content{
@@ -59,6 +57,12 @@
 
     .txt{
         color: white;
+    }
+
+    .maintxt{
+        color: gold;
+        font-size: 50px;
+        
     }
 }
 

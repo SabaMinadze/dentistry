@@ -7,13 +7,17 @@ import Image from 'next/image'
 import Card from './components/Card/Card'
 import Card2 from './components/Card2/Card2'
 import Eqimebi from './components/Eqimebi/Eqimebi'
+import InfoBox from './components/InfoBox/InfoBox'
+import KitxvadaTema from './components/KitxvadaTema/KitxvadaTema'
 
 function page() {
   return (
     <>
       <div className={styles.box}>
-        <div>    
-          
+
+        <div>  
+        <InfoBox/>
+                
         </div> 
         <div className={styles.nav}>
         <h1 className={styles.txt}>დენტისტრი/Dentistry</h1>
